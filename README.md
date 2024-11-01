@@ -10,6 +10,8 @@ This repository will host my notebooks where I will copy over the projects I hav
 
 [Merging Spotify results from multiple files then uploading to SQL database](https://github.com/Tyreal676/tyreal676.github.io/blob/main/For%20Streamlit.py).
 
+[Predicting California Wildfire damage](https://github.com/Tyreal676/tyreal676.data_portfolio/blob/main/California%20Wildfires.ipynb)
+
 ### Tools
 
 Language: SQL, Python, R 
