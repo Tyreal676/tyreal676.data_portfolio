@@ -6,6 +6,8 @@ This repository will host my notebooks where I will copy over the projects I hav
 
 ## Projects
 
+[What helps predict feelings of social loneliness from Behavioral Risk (CDC) Data](https://github.com/Tyreal676/tyreal676.data_portfolio/blob/main/Notebooks/BRFSS%20ML%20Modeling%20Final%20Version.ipynb)
+
 [How does income level effect self rating of health measures from CDC Data](https://github.com/Tyreal676/tyreal676.data_portfolio/blob/main/Predicting%20Mental%20Health%20off%20Income%20Level.ipynb)
 
 [Merging Spotify results from multiple files then uploading to SQL database](https://github.com/Tyreal676/tyreal676.github.io/blob/main/For%20Streamlit.py).
